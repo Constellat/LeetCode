@@ -1,4 +1,4 @@
-package com.constellat._5;
+package com.constellat._005;
 
 public class LongestPalindrome {
     // 方法超时

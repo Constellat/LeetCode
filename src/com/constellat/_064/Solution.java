@@ -1,4 +1,4 @@
-package com.constellat._64;
+package com.constellat._064;
 
 class Solution {
     public int minPathSum(int[][] grid) {

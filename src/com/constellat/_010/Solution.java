@@ -1,4 +1,4 @@
-package com.constellat._10;
+package com.constellat._010;
 
 class Solution {
     public static boolean isMatch0(String s, String p) {
