@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="339b7b99-14da-491a-a848-c040bea9aead" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="339b7b99-14da-491a-a848-c040bea9aead" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -31,6 +32,9 @@
         <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA_Include/apache-maven-3.6.1" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="21ApNQ50txSscfNojJDzdegemaH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -153,6 +157,7 @@
       <workItem from="1637393706748" duration="1522000" />
       <workItem from="1637407031854" duration="6437000" />
       <workItem from="1637479877078" duration="8082000" />
+      <workItem from="1637544328812" duration="64000" />
     </task>
     <servers />
   </component>
